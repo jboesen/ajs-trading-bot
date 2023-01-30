@@ -1,1 +1,14 @@
 yja-env
+requirements.txt
+alt_sectors.csv
+cpi.csv
+crashes.csv
+fed-rate.csv
+interest.csv
+pe.csv
+sectors_no_nan.csv
+sectors.csv
+junk
+development
+data
+__pycache__
